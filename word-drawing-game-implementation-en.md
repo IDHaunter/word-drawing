@@ -73,7 +73,7 @@ Do not search for the answer across the entire word bank. Compare the submitted 
 ## 3. Exact project structure
 
 ```text
-word-drawing-game/
+word-drawing/
 ├── src/
 │   ├── components/
 │   │   ├── DrawingCanvas.tsx
@@ -104,17 +104,7 @@ The tree contains all 20 project-authored files. The `public/`, `assets/`, `test
 
 ## 4. Complete contents of all files
 
-Every file is shown in full below. The heading immediately before each code block is its path relative to the `word-drawing-game/` project root.
-
-### `.gitignore`
-
-```gitignore
-node_modules/
-dist/
-.vite/
-.DS_Store
-*.local
-```
+Every file is shown in full below. The heading immediately before each code block is its path relative to the `word-drawing/` project root.
 
 ### `README.md`
 
