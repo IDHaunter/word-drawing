@@ -1,6 +1,6 @@
 export const DRAWING_WORD_COUNT = 20;
 export const GUESS_CARD_COUNT = 10;
-export const DRAWING_DURATION_MS = 4_000;
+export const DRAWING_DURATION_MS = 5_000;
 export const DRAWING_DURATION_SECONDS = DRAWING_DURATION_MS / 1_000;
 
 export const CANVAS_WIDTH = 1_000;
